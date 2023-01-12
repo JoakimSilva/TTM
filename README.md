@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="[https://JoakimSilva.github.io/style.css]">
+<link rel="stylesheet" type="text/css" href="https://github.com/JoakimSilva/TTM/blob/main/assets/css/style">
 </head>
 <body>
 <h1>Solutions to The Theoretical Minimum Series</h1>
