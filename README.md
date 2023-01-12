@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <head>
+    <head>
     <link rel="stylesheet" type="text/css" href="https://JoakimSilva.github.io/style.css">
   </head>
 <body>
