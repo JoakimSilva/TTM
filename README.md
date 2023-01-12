@@ -1,4 +1,3 @@
-<style>theme: Architect</style>
 <!DOCTYPE html>
 <html>
 <head>
