@@ -1,12 +1,5 @@
 <!DOCTYPE html>
 <html>
-<style>
-h1 {
-   color: purple;
-}
-  p { color: red;
-  }
-</style>
 <body>
 
 <h1>Solutions to The Theoretical Minimum Series</h1>
