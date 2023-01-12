@@ -6,6 +6,7 @@
 <body>
 <h1>Solutions to The Theoretical Minimum Series</h1>
 
+  <a href="https://github.com/JoakimSilva/TTM/blob/main/landing.html">Click me</a>
 <table>
   <tr>
     <th>Classical Mechanics</th>
