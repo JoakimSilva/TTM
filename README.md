@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <link rel="stylesheet" type="text/css" href="https://JoakimSilva.github.io/style.css">
+  <link rel="stylesheet" type="text/css" href="https://github.com/JoakimSilva/TTM/blob/main/css">
 <body>
 
 <h1>Solutions to The Theoretical Minimum Series</h1>
