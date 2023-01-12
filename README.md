@@ -1,7 +1,7 @@
+theme: Architect
 <!DOCTYPE html>
 <html>
 <head>
-theme: Architect
 </head>
 <body>
 <h1>Solutions to The Theoretical Minimum Series</h1>
