@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-    <link rel="stylesheet" type="text/css" href="https://JoakimSilva.github.io/style.css">
+<style> p {color:red}
+    h1 {color: purple}
+        </style>
   </head>
 <body>
 
