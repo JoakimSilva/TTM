@@ -1,9 +1,0 @@
----
----
-
-@import "{{ site.theme }}";
-p {
-  text-align: center;
-  color: red;
-};
-h1 { color: purple; };
