@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-    <head>
+    <header>
 <style> p {color:red}
     h1 {color: purple}
         </style>
-  </head>
+  </header>
 <body>
 
 <h1>Solutions to The Theoretical Minimum Series</h1>
