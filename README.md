@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
-  <link rel="stylesheet" type="text/css" href="https://github.com/JoakimSilva/TTM/blob/main/css">
+<style>
+h1 {
+   color: purple;
+}
+  p { color: red;
+  }
+</style>
 <body>
 
 <h1>Solutions to The Theoretical Minimum Series</h1>
