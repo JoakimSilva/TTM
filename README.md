@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel=“stylesheet” type=“text/css” href=“styles.css”>
+  <link rel=“stylesheet” type=“text/css” href=“test1.css”>
 </head>
 <body>
 <h1>Solutions to The Theoretical Minimum Series</h1>
